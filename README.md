@@ -44,8 +44,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Abolfazl48/count.svg?"  />
-</div>
-
-###
